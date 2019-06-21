@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms
 
-## Date strutures
+## Date structures
 * linked_list 链表
 * 
