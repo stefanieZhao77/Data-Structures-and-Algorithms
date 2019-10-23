@@ -1,6 +1,6 @@
 //
 //  bm.cpp
-//  stack
+//  string
 //
 //  Created by StefanieZhao on 2019/10/22.
 //  Copyright © 2019 StefanieZhao. All rights reserved.
